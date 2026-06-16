@@ -1,0 +1,5 @@
+START = "inicio"
+WAITING_DATES = "esperando_fechas"
+VALIDATING_BALANCE = "validando_saldo"
+CONFIRMATION = "confirmacion"
+FINISHED = "finalizado"
