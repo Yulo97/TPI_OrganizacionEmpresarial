@@ -12,7 +12,7 @@ Proyecto simple en Python para simular el proceso de solicitud de vacaciones des
 1. Clona el repositorio:
 
 ```bash
-git clone <url-del-repositorio>
+git clone <https://github.com/Yulo97/TPI_OrganizacionEmpresarial>
 cd tpi-vacaciones
 ```
 
